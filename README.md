@@ -5,3 +5,6 @@
 2021 ; 2/2024 - Head of Streaming Technology used by a private company.<br /><br />
 👀👀👀
 
+## Certifications
+Studying at a State & Federal recognized program. For privacy reasons let it be unnamed. 
+
