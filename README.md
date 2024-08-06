@@ -14,4 +14,5 @@ Java ; [Spigot](https://hub.spigotmc.org/javadocs/bukkit/) | [Swing](https://www
 PHP ; [Jikan](https://docs.api.jikan.moe/) | [MySQLi](https://www.php.net/manual/en/book.mysqli.php) | [Curl](https://www.php.net/manual/en/book.curl.php)<br /><br />
 JavaScript ; [Vue](https://vuejs.org/) | [Node](https://nodejs.org/en)<br /><br />
 Python ; [YOLOv8](https://github.com/ultralytics/ultralytics) | [Presentation](https://python-pptx.readthedocs.io/en/latest/user/presentations.html) | [BeautifulSoup](https://beautiful-soup-4.readthedocs.io/en/latest/) | [Discord.py](https://discordpy.readthedocs.io/en/stable/)<br /><br />
+Lua ; [Love2d](https://love2d.org/) | [Aimware](https://docs.aimware.net/)
 
