@@ -12,3 +12,6 @@ Studying at a State & Federal recognized program. For privacy reasons let it be 
 C# ; WinForms, XAML, Blazor, MAUI, Xamarin.Forms, WPF, UWP, Discord.NET<br /><br />
 Java ; Minecraft, Swing, JDBC(Java Database Connectivity), JDA(Java Discord API)<br /><br />
 PHP ; Jikan, MySQLi, Curl<br /><br />
+JavaScript ; Vue, Node<br /><br />
+Python ; YOLOv8, Presentation, BeautifulSoup, Discord.py<br /><br />
+
