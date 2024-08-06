@@ -9,6 +9,6 @@
 Studying at a State & Federal recognized program. For privacy reasons let it be unnamed. 
 
 ## Familiar Languages & APIs
-C# ; WinForms, XAML, Blazor, MAUI, Xamarin.Forms, WPF, UWP<br /><br />
+C# ; WinForms, XAML, Blazor, MAUI, Xamarin.Forms, WPF, UWP, Discord.NET<br /><br />
 Java ; Minecraft, Swing, JDBC(Java Database Connectivity), JDA(Java Discord API)<br /><br />
 PHP ; Jikan, MySQLi, Curl<br /><br />
