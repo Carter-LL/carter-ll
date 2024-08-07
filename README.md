@@ -23,3 +23,7 @@ Cloud ; [Google](https://cloud.google.com/) | [Oracle](https://www.oracle.com/cl
 ## Interests & Hobbies
 Reverse Engineering, Game Development, Automation, fascinated by creating things from scratch! I love low-level programming, and analyzing it such as the assembly code.
 
+## Events Attended
+8/7/2024 ; [Intro to Blazor](https://www.meetup.com/indy-net-consortium/events/299622097/) - [Indy .NET Consortium](https://www.meetup.com/indy-net-consortium/)
+
+
