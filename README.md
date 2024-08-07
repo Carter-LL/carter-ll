@@ -20,5 +20,5 @@ C++ ; [Dear ImGui](https://github.com/ocornut/imgui) | [DirectX](https://learn.m
 [IDA PRO](https://hex-rays.com/ida-pro/) | [HxD](https://mh-nexus.de/en/hxd/) | [Ghidra](https://ghidra-sre.org/) | [dnSpy](https://github.com/dnSpy/dnSpy) | [Unity](https://unity.com/) [Visual Studio](https://visualstudio.microsoft.com/) | [Git](https://git-scm.com/)
 
 ## Interests & Hobbies
-Reverse Engineering, Game Development, Automation
+Reverse Engineering, Game Development, Automation, fascinated from creating things from scratch! I love low-level programming and analyzing it such as assembly.
 
