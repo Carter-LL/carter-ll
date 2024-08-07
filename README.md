@@ -16,7 +16,7 @@ JavaScript ; [Vue](https://vuejs.org/) | [Node](https://nodejs.org/en) | [Plyr](
 Python ; [YOLOv8](https://github.com/ultralytics/ultralytics) | [Presentation](https://python-pptx.readthedocs.io/en/latest/user/presentations.html) | [BeautifulSoup](https://beautiful-soup-4.readthedocs.io/en/latest/) | [Discord.py](https://discordpy.readthedocs.io/en/stable/)<br /><br />
 Lua ; [Love2d](https://love2d.org/) | [Aimware](https://docs.aimware.net/)<br /><br />
 C++ ; [Dear ImGui](https://github.com/ocornut/imgui) | [DirectX](https://learn.microsoft.com/en-us/windows/win32/direct3dgetstarted/building-your-first-directx-app) | [Windows API Hooking and DLL Injection](https://dzone.com/articles/windows-api-hooking-and-dll-injection)<br /><br />
-Cloud ; [Google](https://cloud.google.com/) | [Oracle](https://www.oracle.com/cloud/)
+Cloud ; [Google](https://cloud.google.com/) | [Oracle](https://www.oracle.com/cloud/) | [Azure](https://azure.microsoft.com/en-us)
 
 [IDA PRO](https://hex-rays.com/ida-pro/) | [HxD](https://mh-nexus.de/en/hxd/) | [Ghidra](https://ghidra-sre.org/) | [dnSpy](https://github.com/dnSpy/dnSpy) | [Unity](https://unity.com/) [Visual Studio](https://visualstudio.microsoft.com/) | [Git](https://git-scm.com/)
 
