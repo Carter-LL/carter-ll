@@ -15,5 +15,5 @@ PHP ; [Jikan](https://docs.api.jikan.moe/) | [MySQLi](https://www.php.net/manual
 JavaScript ; [Vue](https://vuejs.org/) | [Node](https://nodejs.org/en)<br /><br />
 Python ; [YOLOv8](https://github.com/ultralytics/ultralytics) | [Presentation](https://python-pptx.readthedocs.io/en/latest/user/presentations.html) | [BeautifulSoup](https://beautiful-soup-4.readthedocs.io/en/latest/) | [Discord.py](https://discordpy.readthedocs.io/en/stable/)<br /><br />
 Lua ; [Love2d](https://love2d.org/) | [Aimware](https://docs.aimware.net/)<br /><br />
-C++ ; [Dear ImGui](https://github.com/ocornut/imgui) | [DirectX](https://learn.microsoft.com/en-us/windows/win32/direct3dgetstarted/building-your-first-directx-app) [Windows API Hooking and DLL Injection](https://dzone.com/articles/windows-api-hooking-and-dll-injection)
+C++ ; [Dear ImGui](https://github.com/ocornut/imgui) | [DirectX](https://learn.microsoft.com/en-us/windows/win32/direct3dgetstarted/building-your-first-directx-app) | [Windows API Hooking and DLL Injection](https://dzone.com/articles/windows-api-hooking-and-dll-injection)
 
