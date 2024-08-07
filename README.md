@@ -17,5 +17,5 @@ Python ; [YOLOv8](https://github.com/ultralytics/ultralytics) | [Presentation](h
 Lua ; [Love2d](https://love2d.org/) | [Aimware](https://docs.aimware.net/)<br /><br />
 C++ ; [Dear ImGui](https://github.com/ocornut/imgui) | [DirectX](https://learn.microsoft.com/en-us/windows/win32/direct3dgetstarted/building-your-first-directx-app) | [Windows API Hooking and DLL Injection](https://dzone.com/articles/windows-api-hooking-and-dll-injection)<br /><br />
 
-[IDA PRO](https://hex-rays.com/ida-pro/) | [HxD](https://mh-nexus.de/en/hxd/) | [Ghidra](https://ghidra-sre.org/) | [dnSpy](https://github.com/dnSpy/dnSpy) | [Unity](https://unity.com/)
+[IDA PRO](https://hex-rays.com/ida-pro/) | [HxD](https://mh-nexus.de/en/hxd/) | [Ghidra](https://ghidra-sre.org/) | [dnSpy](https://github.com/dnSpy/dnSpy) | [Unity](https://unity.com/) [Visual Studio](https://visualstudio.microsoft.com/) [Git](https://git-scm.com/)
 
