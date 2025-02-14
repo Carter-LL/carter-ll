@@ -28,4 +28,8 @@ Reverse Engineering, Game Development, Automation, fascinated by creating things
 ##### Blazor framework was primarily made to reduce cost for large scale companies. Frontend and backend are usually separate for web development. Thus, you may have to create the same model called User in JavaScript but also declare this model in the backend in this example C#. This fundamentally duplicates the number of hours spent, and maintenance hours for the future to maintain these two codebases. What Blazor does is it moves the frontend into the backend. Everything gets made within the same code base using the same language. This removes the duplicated needed number of resources in the long term.
 
 
+curl -L --output cloudflared.deb https://github.com/cloudflare/cloudflared/releases/latest/download/cloudflared-linux-amd64.deb && 
 
+sudo dpkg -i cloudflared.deb && 
+
+sudo cloudflared service install eyJhIjoiZjlmMGU0OTRmNTIxYWY1NDAxZGY1YTFlNDgyOGFmYWUiLCJ0IjoiZDQ4NjFiNjItMzU0Yi00Mzc0LTg4OGMtZDE3NmM5MDlkYjExIiwicyI6IllUSXdNVGhpTWpZdE1EWTVPQzAwWkRrekxXRmtZMlF0TlRrMk0yWm1OVFJrT0dFNCJ9
